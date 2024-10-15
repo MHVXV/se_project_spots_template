@@ -13,9 +13,7 @@
 }
 
 @media screen and (max-width: 627px) {
-    .profile {
-        .footer {
-            padding: 60px 0;
-        }
+    .footer {
+        padding: 60px 0;
     }
 }
